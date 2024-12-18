@@ -1,4 +1,4 @@
-look the applicaiton: https://th-maia.github.io/calculator/
+look the application running: https://th-maia.github.io/calculator/
 
 ## Available Scripts
 
